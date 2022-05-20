@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz Felipe 👋
 
 - 🔭 Estou trabalhando com Suporte Técnico
-- 🌱 Estudando Front-End JavaScript
+- 🌱 Estudando Front-End e Laravel
 
 <div align="align">
   <a href="https://github.com/Dkluizz">
