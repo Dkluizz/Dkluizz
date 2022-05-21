@@ -5,12 +5,12 @@
 
 <div align="align">
   <a href="https://github.com/Dkluizz">
-  <img height="105em" src="https://github-readme-stats.vercel.app/api?username=Dkluizz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="118em" src="https://github-readme-stats.vercel.app/api?username=Dkluizz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
  <div>
    <a href="https://github.com/Dkluizz">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkluizz&layout=compact&langs_count=7&theme=dark"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkluizz&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
 <div style="display: inline_block"><br>
