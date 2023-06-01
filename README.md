@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Luiz Felipe 👋
 
-- 🔭 Estou trabalhando com Suporte Técnico
-- 🌱 Estudando Front-End e Laravel
-
 <div align="align">
   <a href="https://github.com/Dkluizz">
   <img height="118em" src="https://github-readme-stats.vercel.app/api?username=Dkluizz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
