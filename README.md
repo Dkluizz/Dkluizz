@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Luiz Felipe 👋
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dkluizz)](https://github.com/Dkluizz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-silva-santos-187bb5214/)](https://www.linkedin.com/in/luiz-felipe-silva-santos-187bb5214/)
 
 <div align="align">
   <a href="https://github.com/Dkluizz">
